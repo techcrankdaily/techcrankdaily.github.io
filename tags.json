@@ -1,0 +1,65 @@
+{
+  "updated": "2026-01-09",
+  "tags": [
+    {
+      "id": "ai-tools-2026",
+      "name": "AI Tools 2026",
+      "short": "AI TOOLS",
+      "icon": "🤖",
+      "color": "#6c5ce7",
+      "count": "2.4k",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600",
+      "trending": true
+    },
+    {
+      "id": "chatgpt-5",
+      "name": "ChatGPT-5",
+      "short": "CHATGPT-5",
+      "icon": "🧠",
+      "color": "#00b894",
+      "count": "1.8k",
+      "image": "https://images.unsplash.com/photo-1675557009483-effe7c6c7a9be?w=600",
+      "trending": true
+    },
+    {
+      "id": "sora-2",
+      "name": "Sora 2.0",
+      "short": "SORA 2.0",
+      "icon": "🎬",
+      "color": "#e84393",
+      "count": "1.2k",
+      "image": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600",
+      "trending": true
+    },
+    {
+      "id": "make-money-usa",
+      "name": "Make Money USA",
+      "short": "MONEY USA",
+      "icon": "💵",
+      "color": "#00cec9",
+      "count": "3.1k",
+      "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600",
+      "trending": true
+    },
+    {
+      "id": "faceless-youtube",
+      "name": "Faceless YouTube",
+      "short": "FACELESS",
+      "icon": "📺",
+      "color": "#fdcb6e",
+      "count": "980",
+      "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600",
+      "trending": false
+    },
+    {
+      "id": "ugc-ads",
+      "name": "UGC Ads",
+      "short": "UGC ADS",
+      "icon": "🔥",
+      "color": "#ff7675",
+      "count": "850",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600",
+      "trending": false
+    }
+  ]
+}
